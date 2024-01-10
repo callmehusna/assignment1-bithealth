@@ -1,0 +1,46 @@
+body {
+    background-color: aliceblue;
+}
+.navbar {
+    background-color: white;
+    padding: 10px;
+    
+}
+ul {
+    text-align: right;
+}
+li {
+    display: inline;
+    
+}
+.profile {
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 20%;
+    
+}
+.section {
+    border-radius: 10px;
+    background-color: white;
+    margin: 10px;
+}
+.form-enter {
+    margin: 10px;
+    
+}
+input {
+    display: block;
+    width: 100%;
+    margin: 10px;
+}
+label {
+    font-weight: bold;
+    
+}
+.profile-spec p{
+    display: inline;
+    margin-right: 10px;
+}
+.quest {
+    font-weight: bold;
+}
